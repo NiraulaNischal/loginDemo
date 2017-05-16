@@ -17,7 +17,7 @@
   </properties>
 
   <dependencies>
-	<something>
+	<something changed in my branch>
   <!-- Spring 3 dependencies -->
   <dependency>
     
